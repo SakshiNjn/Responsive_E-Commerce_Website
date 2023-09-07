@@ -1,4 +1,5 @@
 # Responsive_E-Commerce_Website
+This has been created with the reference of an Udemy Course [also a Youtube Tutorial].
 This is a responsive clothes shopping website (Basically template). It contains 6 pages being Home, Shop, Blog, About, Contact and Cart (Icon).
 Each page has its features.
 It has footer with contact in most of the pages
